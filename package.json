@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "husky": "^4.2.5"
+  },
+  "husky": {
+      "hooks": {
+        "commit-msg": "mfex-check --commit-message"
+      }
   }
 }
