@@ -13,7 +13,7 @@
   },
   "husky": {
       "hooks": {
-        "commit-msg": "mfex-check --commit-message"
+        "commit-msg": "mfex-check --commit-message --ci"
       }
   }
 }
