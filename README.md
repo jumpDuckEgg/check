@@ -1,3 +1,6 @@
 # husky
  . do the demo
- . this is my other branch
+ . push true commit in to remote
+ . git push a error commit
+ . set fixed
+ . test1
