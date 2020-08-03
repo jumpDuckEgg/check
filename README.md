@@ -4,3 +4,4 @@
  . change readme
  . add a block line 
  . change current line
+ . add a error commit
